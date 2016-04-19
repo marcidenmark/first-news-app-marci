@@ -1,3 +1,3 @@
 My Second News App
 =====================
-trying to redo NICAR class
+Redo of NICAR class
